@@ -1,0 +1,6 @@
+1. Header:
+apikey: 6t9nb7OIiJTDIDyAVc2S4ienDnVkiBlo
+
+2. Url:
+https://api.apilayer.com/exchangerates_data/latest
+
